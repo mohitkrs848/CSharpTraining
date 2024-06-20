@@ -1,0 +1,5 @@
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.AssemblyInfoInputs.cache
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.AssemblyInfo.cs
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.csproj.CoreCompileInputs.cache
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.sourcelink.json
