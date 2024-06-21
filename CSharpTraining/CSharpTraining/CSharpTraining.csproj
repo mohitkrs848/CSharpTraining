@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,5 +6,32 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Mohit\Encapsulation\**" />
+    <Compile Remove="Mohit\Inheritance\**" />
+    <Compile Remove="Mohit\SampleProject1\**" />
+    <Compile Remove="Mohit\Udemy Excercises\**" />
+    <EmbeddedResource Remove="Mohit\Encapsulation\**" />
+    <EmbeddedResource Remove="Mohit\Inheritance\**" />
+    <EmbeddedResource Remove="Mohit\SampleProject1\**" />
+    <EmbeddedResource Remove="Mohit\Udemy Excercises\**" />
+    <None Remove="Mohit\Encapsulation\**" />
+    <None Remove="Mohit\Inheritance\**" />
+    <None Remove="Mohit\SampleProject1\**" />
+    <None Remove="Mohit\Udemy Excercises\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Mohit\Abstraction.cs" />
+    <Compile Remove="Mohit\AccessModifiers.cs" />
+    <Compile Remove="Mohit\Delegates.cs" />
+    <Compile Remove="Mohit\Generics.cs" />
+    <Compile Remove="Mohit\polymorphism.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mohit\" />
+  </ItemGroup>
 
 </Project>

@@ -3,3 +3,13 @@ C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSha
 C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.AssemblyInfo.cs
 C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.csproj.CoreCompileInputs.cache
 C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.sourcelink.json
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\net6.0\CSharpTraining.exe
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\net6.0\CSharpTraining.deps.json
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\net6.0\CSharpTraining.runtimeconfig.json
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\net6.0\CSharpTraining.dll
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\net6.0\CSharpTraining.pdb
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.dll
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\refint\CSharpTraining.dll
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.pdb
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.genruntimeconfig.cache
+C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\ref\CSharpTraining.dll
