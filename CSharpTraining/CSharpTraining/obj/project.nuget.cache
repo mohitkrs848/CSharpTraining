@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "waGNQGu3g7w=",
+  "dgSpecHash": "GFPfzkgecfM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kumar.Mohit\\source\\repos\\mohitkrs848\\CSharpTraining\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj",
+  "projectFilePath": "C:\\Users\\Ankit.Kumar1\\Desktop\\AutoPoint\\Training\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kumar.Mohit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\Kumar.Mohit\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\Kumar.Mohit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\Kumar.Mohit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+    "C:\\Users\\Ankit.Kumar1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Ankit.Kumar1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Ankit.Kumar1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Ankit.Kumar1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
   ],
   "logs": [
     {
@@ -15,6 +15,12 @@
       "level": "Warning",
       "warningLevel": 1,
       "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.autopoint.com:8181/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://hol-build1.na.audatex.com:7871/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
     }
   ]
 }

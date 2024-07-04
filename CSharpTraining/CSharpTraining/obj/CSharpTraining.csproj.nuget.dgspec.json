@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kumar.Mohit\\source\\repos\\mohitkrs848\\CSharpTraining\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj": {}
+    "C:\\Users\\Ankit.Kumar1\\Desktop\\AutoPoint\\Training\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kumar.Mohit\\source\\repos\\mohitkrs848\\CSharpTraining\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj": {
+    "C:\\Users\\Ankit.Kumar1\\Desktop\\AutoPoint\\Training\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kumar.Mohit\\source\\repos\\mohitkrs848\\CSharpTraining\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj",
+        "projectUniqueName": "C:\\Users\\Ankit.Kumar1\\Desktop\\AutoPoint\\Training\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj",
         "projectName": "CSharpTraining",
-        "projectPath": "C:\\Users\\Kumar.Mohit\\source\\repos\\mohitkrs848\\CSharpTraining\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj",
-        "packagesPath": "C:\\Users\\Kumar.Mohit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kumar.Mohit\\source\\repos\\mohitkrs848\\CSharpTraining\\CSharpTraining\\CSharpTraining\\obj\\",
+        "projectPath": "C:\\Users\\Ankit.Kumar1\\Desktop\\AutoPoint\\Training\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj",
+        "packagesPath": "C:\\Users\\Ankit.Kumar1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ankit.Kumar1\\Desktop\\AutoPoint\\Training\\CSharpTraining\\CSharpTraining\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kumar.Mohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ankit.Kumar1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,8 +23,10 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://hol-build1.na.audatex.com:7871/nuget/": {},
           "http://nuget.autopoint.com:8181/nuget/": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://feeds.axadmin.net/nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

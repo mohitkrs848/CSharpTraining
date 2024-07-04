@@ -3,3 +3,8 @@ C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSha
 C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.AssemblyInfo.cs
 C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.csproj.CoreCompileInputs.cache
 C:\Users\Kumar.Mohit\source\repos\mohitkrs848\CSharpTraining\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.sourcelink.json
+C:\Users\Ankit.Kumar1\Desktop\AutoPoint\Training\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit.Kumar1\Desktop\AutoPoint\Training\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.AssemblyInfoInputs.cache
+C:\Users\Ankit.Kumar1\Desktop\AutoPoint\Training\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.AssemblyInfo.cs
+C:\Users\Ankit.Kumar1\Desktop\AutoPoint\Training\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.csproj.CoreCompileInputs.cache
+C:\Users\Ankit.Kumar1\Desktop\AutoPoint\Training\CSharpTraining\CSharpTraining\obj\Debug\net6.0\CSharpTraining.sourcelink.json
