@@ -8,30 +8,32 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Mohit\Encapsulation\**" />
-    <Compile Remove="Mohit\Inheritance\**" />
-    <Compile Remove="Mohit\SampleProject1\**" />
-    <Compile Remove="Mohit\Udemy Excercises\**" />
-    <EmbeddedResource Remove="Mohit\Encapsulation\**" />
-    <EmbeddedResource Remove="Mohit\Inheritance\**" />
-    <EmbeddedResource Remove="Mohit\SampleProject1\**" />
-    <EmbeddedResource Remove="Mohit\Udemy Excercises\**" />
-    <None Remove="Mohit\Encapsulation\**" />
-    <None Remove="Mohit\Inheritance\**" />
-    <None Remove="Mohit\SampleProject1\**" />
-    <None Remove="Mohit\Udemy Excercises\**" />
+    <Compile Remove="Mohit\**" />
+    <EmbeddedResource Remove="Mohit\**" />
+    <None Remove="Mohit\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Remove="Mohit\Abstraction.cs" />
-    <Compile Remove="Mohit\AccessModifiers.cs" />
-    <Compile Remove="Mohit\Delegates.cs" />
-    <Compile Remove="Mohit\Generics.cs" />
-    <Compile Remove="Mohit\polymorphism.cs" />
+    <Compile Include="Mohit\Exception Handling\ExceptionParameters.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Mohit\" />
+    <PackageReference Include="log4net" Version="2.0.17" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.1" />
+    <PackageReference Include="NLog" Version="5.3.2" />
+    <PackageReference Include="Serilog" Version="4.0.0" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="Serilog.Formatting.Compact" Version="3.0.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="6.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mohit\Logging\" />
   </ItemGroup>
 
 </Project>
