@@ -10,3 +10,6 @@
 /CSharpTraining/CSharpTraining/bin/Debug/net6.0
 /CSharpTraining/CSharpTraining/obj/Debug/net6.0/ref
 /CSharpTraining/CSharpTraining/obj/Debug/net6.0/refint
+/CSharpTraining/.vs/CSharpTraining/config/applicationhost.config
+/CSharpTraining/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/CSharpTraining/WebApplicationDemo
