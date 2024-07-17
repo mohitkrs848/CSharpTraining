@@ -1,4 +1,13 @@
-﻿################################################################################
+﻿/.vs
+/CSharpTraining/.vs
+/CSharpTraining/obj/
+/CSharpTraining/packages/
+/CSharpTraining/CSharpTraining/obj/
+/CSharpTraining/WebApplicationDemo/
+/CSharpTraining/obj/Debug
+/CSharpTraining/obj/Debug/net6.0
+
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
